@@ -7,7 +7,7 @@
 # Each random correlation calculated was divided by the average of the operon correlations in that organism to avoid a bias when comparing with relative correlations. 
 # The mean and standard deviation of this corrected background correlations were used to compute a z-score for each of the predicted modules.
 # 
-# Author: Victor E Nieto Caballero
+# Author: Victor E Nieto Caballero , Diego Camacho and Laura Hinojosa
 # Last modification: Summer 2021
 
 import numpy as np
